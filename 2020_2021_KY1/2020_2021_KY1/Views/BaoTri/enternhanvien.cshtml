@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Chọn nhân viên";
+}
+<form action="/BaoTri/lietkethietbi" method="GET">
+    Tên nhân viên
+    <select name="MaNhanVien" id="MaNhanVien">
+        @foreach (var item in ViewBag.ListNhanVien)
+        {
+            <option value="@item.MaNhanVien">@item.TenNhanVien</option>
+        }
+    </select>
+    <input type="submit" value="Liệt kê" />
+</form>

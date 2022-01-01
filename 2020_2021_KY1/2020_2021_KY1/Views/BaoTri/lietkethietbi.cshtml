@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Liệt kê các thiết bị nhân viên đã sửa";
+}
+<input type="hidden" id="MaNhanVien" value="@ViewBag.MaNhanVien"/>
+<table border="1" width="550px">
+    @if (ViewBag.ListThietBi.Count == 0)
+    {
+        <p>Nhân viên chưa sửa thiết bị nào</p>
+    }
+    else
+    {
+        <tr>
+            <th>Mã thiết bị</th>
+            <th>Mã căn hộ</th>
+            <th>Lần thứ</th>
+            <th>Ngày bảo trì</th>
+            <th>Chức năng</th>
+        </tr>
+        @foreach (var item in ViewBag.ListThietBi)
+        {
+            <tr>
+                <td class="MaThietBi">@item.MaThietBi</td>
+                <td class="MaCanHo">@item.MaCanHo</td>
+                <td class="LanThu">@item.LanThu</td>
+                <td>
+                    @item.NgayBaoTri.ToString("dd-MM-yyyy")
+                </td>
+                <td>
+                    <a href="javascript:void(0)" class="delete-button">Delete</a>
+                    <a href="/BaoTri/viewbaotri?MaNhanVien=@ViewBag.MaNhanVien&MaThietBi=@item.MaThietBi&MaCanHo=@item.MaCanHo&LanThu=@item.LanThu">View</a>
+                </td>
+            </tr>
+        }
+    }
+</table>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".delete-button").click(function () {
+            var parent = $(this).parents('tr');
+            var MaNhanVien = $('#MaNhanVien').val();
+            var MaThietBi = parent.find('.MaThietBi').text();
+            var MaCanHo = parent.find('.MaCanHo').text();
+            var LanThu = parent.find('.LanThu').text();
+            $.ajax({
+                url: '/BaoTri/xoabaotri',
+                methed: "GET",
+                data: { MaNhanVien: MaNhanVien, MaThietBi: MaThietBi, MaCanHo: MaCanHo, LanThu: LanThu},
+                success: function (data) {
+                    alert("Xóa thông tin thành công");
+                    parent.remove();
+                },
+                error: function (data) {
+                    alert('Lỗi');
+                }
+            });
+        });
+    });
+</script>

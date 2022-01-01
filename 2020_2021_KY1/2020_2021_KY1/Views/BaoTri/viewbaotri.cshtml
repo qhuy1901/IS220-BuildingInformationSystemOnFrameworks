@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Xem thông tin bảo trì";
+}
+@*@model NV_BT*@
+<form action="/BaoTri/updatebaotri" method="POST">
+    @* Phần thông tin dùng để xem và cập nhật *@
+    Mã thiết bị <input type="text" name="MaThietBi" value="@ViewBag.BaoTri.MaThietBi" /><br />
+    Mã căn hộ <input type="text" name="MaCanHo" value="@ViewBag.BaoTri.MaCanHo" /><br />
+    Lần sửa <input type="text" name="LanThu" value="@ViewBag.BaoTri.LanThu" /><br />
+    Ngày sửa <input type="date" name="NgayBaoTri" value="@ViewBag.BaoTri.NgayBaoTri.ToString("yyyy-MM-dd")" /><br />
+    <input type="hidden" name="MaNhanVien" value="@ViewBag.BaoTri.MaNhanVien" /><br />
+    <input type="submit" value="Update" />
+
+    @* Dữ liệu cũ*@
+    <input type="hidden" name="MaNhanVien_Old" value="@ViewBag.BaoTri.MaNhanVien" /><br />
+    <input type="hidden" name="MaCanHo_Old" value="@ViewBag.BaoTri.MaCanHo" /><br />
+    <input type="hidden" name="MaThietBi_Old" value="@ViewBag.BaoTri.MaThietBi" /><br />
+    <input type="hidden" name="LanThu_Old" value="@ViewBag.BaoTri.LanThu" /><br />
+</form>
+

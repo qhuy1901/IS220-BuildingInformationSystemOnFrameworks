@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Liệt kê nhân viên theo số lần sửa";
+}
+<table border="1px" width="550px">
+    <tr>
+        <th>Tên nhân viên</th>
+        <th>Số điện thoại</th>
+        <th>Số lần sửa</th>
+    </tr>
+    @foreach (var item in ViewBag.ListNhanVien)
+    {
+    <tr>
+        <td>
+            @item.GetType().GetProperty("TenNhanVien").GetValue(item, null)
+        </td>
+        <td>
+            @item.GetType().GetProperty("SoDienThoai").GetValue(item, null)
+        </td>
+        <td>
+            @item.GetType().GetProperty("SoLanSua").GetValue(item, null)
+        </td>
+    </tr>
+    }
+</table>
