@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<table border="1">
+    <tr><th>Mã công nhân</th><th>Tên công nhân</th><th>Chức năng</th></tr>
+    @foreach (var item in ViewBag.listCongNhan)
+    {
+        <tr>
+            <td>@item.MaCongNhan</td>
+            <td>@item.TenCongNhan</td>
+            <td>
+                <a href="javascript:void(0)" class="button-delete">Delete</a>
+                <a href="/CongNhan/view_congnhan?MaCongNhan=@item.MaCongNhan">View</a>
+                <input type="hidden" class="MaCongNhan" value="@item.MaCongNhan" />
+            </td>
+        </tr>
+    }
+</table>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".button-delete").click(function () {
+            var parent = $(this).parents('tr');
+            var MaCongNhan = $(this).parent().find(".MaCongNhan").val();
+            $.ajax({
+                url: "/CongNhan/delete_congnhan",
+                method: "GET",
+                data: { MaCongNhan: MaCongNhan },
+                success: function (data) {
+                    parent.remove();
+                }
+            });
+        });
+    });
+</script>
+

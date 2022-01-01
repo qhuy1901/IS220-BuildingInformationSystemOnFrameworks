@@ -1,0 +1,17 @@
+﻿@using LAB05.Models;
+@model KhachHang
+@{
+
+    ViewData["Title"] = "Thêm khách hàng";
+    <div class="card" style="width:500px">
+        <div class="card-header"><h3>Thêm khách hàng</h3></div>
+        <div class="card-body">
+            <form action="/KhachHang/InsertKhachHang" method="post">
+                <label for="maKH">Mã KH</label> <input type="text" name="MaKH" id="maKH" /><br>
+                <label for="tenKH">Tên KH</label> <input type="text" name="HoTen" id="tenKH" /><br>
+                <label for="tenKH">Số điện thoại</label> <input type="text" name="SDT" id="SDT" /><br>
+                <input type="submit" name="submit" class="btn btn-success" value="Thêm" />
+            </form>
+        </div>
+    </div>
+}

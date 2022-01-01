@@ -1,0 +1,14 @@
+﻿@model IEnumerable<LAB05.Models.KhachHang>
+    @{
+    ViewData["Title"] = "Liệt kê hợp đồng";
+    }
+    <h2>Liệt kê hóa đơn</h2>
+    <form action="/HopDong/LietKeHD" method="post">
+        <select name="MaKH" id="MaKH" style=" height: 35px; width: 300px;">
+            @foreach (var item in Model)
+            {
+                <option value="@item.MaKH">@item.HoTen </option>
+            }
+        </select><br>
+        <input type="submit" name="submit" class="btn btn-success" value="Liệt kê hợp đồng" style="margin-top:20px" />
+    </form>

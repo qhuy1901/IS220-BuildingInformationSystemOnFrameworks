@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LAB05.Models.HopDong>
+    @{
+    ViewData["Title"] = "Liệt kê hợp đồng";
+    }
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10">
+                <h2>Danh sách hợp đồng của khách hàng @ViewBag.TenKH</h2>
+                @if(Model.Count() != 0)
+                {
+                <table border="1" class="table table-striped" style="width:70%">
+                    <thead>
+                        <tr>
+                            <th>Mã HD</th>
+                            <th>Tên KHD</th>
+                            <th>Ngày lập</th>
+                            <th>Tổng tiền</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @item.MaHD
+                                </td>
+
+                                <td>
+                                    @item.TenHD
+                                </td>
+
+                                <td>
+                                    @item.NgayLap.ToString()
+                                </td>
+
+                                <td>
+                                    @item.TongTien
+                                </td>
+
+                            </tr>
+                            }
+                    </tbody>
+                </table>
+                }
+                else
+                {
+                    <p>Khách hàng @ViewBag.TenKH chưa có hóa đơn nào.</p>
+                }
+                
+            </div>
+        </div>
+    </div>
+
+

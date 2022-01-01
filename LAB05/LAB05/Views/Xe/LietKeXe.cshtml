@@ -1,0 +1,55 @@
+﻿@model IEnumerable<LAB05.Models.Xe>
+@{
+    ViewData["Title"] = "Liệt kê xe";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-10">
+            <h2>Danh sách xe</h2>
+            <table border="1" class="table table-striped" style="width:70%">
+                <thead>
+                    <tr>
+                        <th>Mã xe</th>
+                        <th>Tên xe</th>
+                        <th>Màu xe</th>
+                        <th>Số chỗ</th>
+                        <th>Tên hãng</th>
+                        <th>Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            @item.MaXe
+                        </td>
+
+                        <td>
+                            @item.TenXe
+                        </td>
+
+                        <td>
+                            @item.MauXe
+                        </td>
+
+                        <td>
+                            @item.SoCho
+                        </td>
+
+                        <td>
+                            @item.TenHang
+                        </td>
+                        <td>
+                            <a href="ViewXe?MaXe=@item.MaXe" class="btn btn-primary">View</a>
+                            <a onclick="return confirm('Bạn cho chắc muốn xóa xe này không?')" href="DeleteXe?MaXe=@item.MaXe" class="btn btn-danger">Xóa</a>
+                        </td>
+
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

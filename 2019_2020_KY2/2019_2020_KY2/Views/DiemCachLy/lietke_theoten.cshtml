@@ -1,0 +1,9 @@
+﻿<form action="/CongNhan/lietke_congnhan" method="POST">
+    Tên điểm cách ly<select id="MaDiemCachLy" name="MaDiemCachLy">
+        @foreach (var item in ViewBag.AllDiemCachLy)
+        {
+            <option value="@item.MaDiemCachLy">@item.TenDiemCachLy</option>
+        }
+    </select>
+    <input type="submit" value="Liệt kê"/>
+</form>

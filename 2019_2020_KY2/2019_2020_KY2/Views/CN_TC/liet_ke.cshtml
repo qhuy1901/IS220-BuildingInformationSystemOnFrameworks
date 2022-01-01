@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<table border="1">
+    <tr>
+        <th>Tên công nhân</th>
+        <th>Năm sinh</th>
+        <th>Nước về</th>
+        <th>Số triệu chứng</th>
+    </tr>
+    @foreach (var item in ViewBag.ListCN)
+    {
+        <tr>
+
+            <td>@item.GetType().GetProperty("TenCongNhan").GetValue(item, null)</td>
+            <td>@item.GetType().GetProperty("NamSinh").GetValue(item, null)</td>
+            <td>@item.GetType().GetProperty("NuocVe").GetValue(item, null)</td>
+            <td>@item.GetType().GetProperty("SoTC").GetValue(item, null)</td>
+        </tr>
+    }
+</table>

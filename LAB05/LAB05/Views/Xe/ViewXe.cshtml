@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "View xe";
+}
+@model Xe
+@{
+    <div class="card" style="width:500px">
+        <div class="card-header"><h3>View xe</h3></div>
+        <div class="card-body">
+            <form action="/Xe/UpdateXe" method="post">
+                <table>
+                    <tr>
+                        <td style="width: 100px;"><label for="MaKH">Mã xe</label></td>
+                        <td><input type="text" name="MaXe" value="@Model.MaXe" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="TenKH">Tên xe</label></td>
+                        <td><input type="text" name="TenXe" value="@Model.TenXe" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="MauXe">Màu xe</label></td>
+                        <td><input type="text" name="MauXe" value="@Model.MauXe" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="SoCho">Số chỗ</label></td>
+                        <td> <input type="number" name="SoCho" value="@Model.SoCho" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="TenHang">Tên hãng</label></td>
+                        <td><input type="text" name="TenHang" value="@Model.TenHang" /></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><input type="submit" class="btn btn-success" name="submit" value="Update" /></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+}

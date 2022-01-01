@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+Mã công nhân
+<input type="text" name="MaCongNhan" placeholder="CN01" value=" @ViewBag.CongNhan.MaCongNhan " />
+Tên công nhân
+<input type="text" name="TenCongNhan" placeholder="Nguyễn Xuân Tùng" value=" @ViewBag.CongNhan.TenCongNhan " />
+Giới tính
+@if (ViewBag.CongNhan.GioiTinh == true)
+{
+    <input type="checkbox" name="GioiTinh" checked />
+}
+else{
+<input type="checkbox" name="GioiTinh" />}
+Năm sinh
+<input type="text" name="NamSinh" placeholder="2000" value=" @ViewBag.CongNhan.NamSinh " />
+Nước về
+<input type="text" name="NuocVe" placeholder="Mỹ" value=" @ViewBag.CongNhan.NuocVe " />
+
+

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<LAB05.Models.KhachHang>
+@{
+    ViewData["Title"] = "Liệt kê KH";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-10">
+            <h2>Danh sách khách hàng</h2>
+            <table border="1" class="table table-striped" style="width:70%">
+                <thead>
+                    <tr>
+                        <th>Mã KH</th>
+                        <th>Tên KH</th>
+                        <th>Số điện thoại</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            @item.MaKH
+                        </td>
+
+                        <td>
+                            @item.HoTen
+                        </td>
+
+                        <td>
+                            @item.SDT
+                        </td>
+
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
