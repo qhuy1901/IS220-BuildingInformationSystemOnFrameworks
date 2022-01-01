@@ -1,0 +1,56 @@
+﻿@model IEnumerable<TaQuangHuy_19520113.Models.HoaDon>
+@{
+    ViewData["Title"] = "Liệt kê hóa đơn";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-10">
+            <h2>Danh sách hóa đơn</h2>
+            @if (Model.Count() != 0)
+            {
+                <table border="1" class="table table-striped" style="width:70%">
+                    <thead>
+                        <tr>
+                            <th>Mã HD</th>
+                            <th>Ngày HD</th>
+                            <th>Mã KH</th>
+                            <th>Tri gia</th>
+                            <th>Chức năng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td>
+                                @item.SoHD
+                            </td>
+                            <td>
+                                @item.NgHD.ToString()
+                            </td>
+
+                            <td>
+                                @item.MaKH
+                            </td>
+                            <td>
+                                @item.TriGia
+                            </td>
+                            <td>
+                                @*<a href="ViewKhachHang?MaKH=@item.MaKH" class="btn btn-primary">View</a>*@
+                                <a href="DeleteHD?SoHD=@item.SoHD" class="btn btn-danger">Xóa</a>
+                            </td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>Nhân viên chưa có hóa đơn nào.</p>
+            }
+
+        </div>
+    </div>
+</div>
+
+

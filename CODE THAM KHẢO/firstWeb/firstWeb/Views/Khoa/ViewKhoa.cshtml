@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Update Khoa";
+}
+@model Khoa
+@{
+    <h2>Update Khoa</h2>
+    <form action="/Khoa/UpdateKhoa" method="post">
+        <label for="maKhoa">Mã khoa</label> <input type="text" name="MaKhoa" value="@Model.MaKhoa"/><br>
+        <label for="tenKhoa">Tên khoa</label> <input type="text" name="TenKhoa" value="@Model.TenKhoa"/><br>
+        <input type="submit" name="submit" value="Update" />
+    </form>
+}

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<firstWeb.Models.SinhVien>
+
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+@{
+    <form method="post" action="XoaSinhVien">
+        <select name="MaSinhVien">
+            @foreach (var sv in Model)
+            {
+                <option value="@sv.MaSinhVien">@sv.TenSinhVien</option>    
+            }
+        </select>
+        <input type ="submit" name="Submit" value="Xóa">
+    </form>
+ }

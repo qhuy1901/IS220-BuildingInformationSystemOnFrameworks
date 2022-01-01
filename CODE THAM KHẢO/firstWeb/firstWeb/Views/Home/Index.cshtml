@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h2>Tên lấy được @ViewData["ten"]</h2>
+@{
+    void XuatTen(string name)
+    {
+        <div>@name </div>
+
+    }
+}
+@{
+    XuatTen("Mai Hung");
+}
+
+@{
+    int b = 2;
+    int c = 1;
+
+}
+@if (b == 0)
+{
+    if (c == 0)
+    {
+        <div>Phuong trinh vô số nghiệm</div>
+    }
+    else
+    {
+        <div>Phuong trinh vô nghiệm</div>
+    }
+
+}
+else
+{
+    double x = -(double)c / b;
+    <div>Phuong trinh có nghiệm @x</div>
+}
+
+@{
+    int thang = 6;
+    int nam = 2020;
+}
+@switch (thang)
+{
+    case 1:case 3:case 5:case 7:case 8:case 10:
+    case 12:<div>Tháng có 31 ngày</div>
+        break;
+    case 2:
+        if (nam % 4 == 0)
+        {
+            <div>Tháng có 29 ngày</div>
+        }
+        else
+        {
+            <div> Tháng có 28 ngày</div>
+        }
+        break;
+    case 4:case 6:case 9:case 11:
+        <div>Tháng có 30 ngày</div>
+        break;
+    default:
+        <div>Tháng sai</div>
+        break; 
+}
+
+@for (int i = 1; i < 10; i++)
+{ 
+   <p>@i</p> 
+}
+
+

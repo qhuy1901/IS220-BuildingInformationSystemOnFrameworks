@@ -1,0 +1,125 @@
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.exe
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.deps.json
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.runtimeconfig.json
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.runtimeconfig.dev.json
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.pdb
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.Views.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.Views.pdb
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.csproj.AssemblyReference.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.AssemblyInfoInputs.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.AssemblyInfo.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.csproj.CoreCompileInputs.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorAssemblyInfo.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorAssemblyInfo.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\staticwebassets\TaQuangHuy_19520113.StaticWebAssets.Manifest.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\staticwebassets\TaQuangHuy_19520113.StaticWebAssets.xml
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaQuangHuy_19520113.styles.css
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.TagHelpers.input.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.TagHelpers.output.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorCoreGenerate.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorTargetAssemblyInfo.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorTargetAssemblyInfo.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.Views.pdb
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.pdb
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.genruntimeconfig.cache
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.csproj.CopyComplete
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\LietKeKH.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\ViewKhachHang.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\UpdateKhachHang.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DeleteKhachHang.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\EnterKhachHang.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\InsertKhachHang.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\EnterHoaDon.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\InsertHoaDon.cshtml.g.cs
+D:\C#Code\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DemSoHD.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.exe
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.deps.json
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.runtimeconfig.json
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.runtimeconfig.dev.json
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.pdb
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.Views.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\TaQuangHuy_19520113.Views.pdb
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.csproj.AssemblyReference.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.AssemblyInfoInputs.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.AssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.csproj.CoreCompileInputs.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\staticwebassets\TaQuangHuy_19520113.StaticWebAssets.Manifest.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\staticwebassets\TaQuangHuy_19520113.StaticWebAssets.xml
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaQuangHuy_19520113.styles.css
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.TagHelpers.input.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.TagHelpers.output.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorCoreGenerate.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\EnterHoaDon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\InsertHoaDon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DeleteKhachHang.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DemSoHD.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\EnterKhachHang.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\InsertKhachHang.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\LietKeKH.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\UpdateKhachHang.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\ViewKhachHang.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\SanPham\EnterSanPham.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\SanPham\InsertSanPham.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorTargetAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.RazorTargetAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.Views.pdb
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.csproj.CopyComplete
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.dll
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.pdb
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\TaQuangHuy_19520113.genruntimeconfig.cache
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\SanPham\LietKeCacSanPham.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\SanPham\LietKeNSP.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\EnterNV.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\LietKeHD.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\TaQuangHuy_19520113\TaQuangHuy_19520113\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\DeleteHD.cshtml.g.cs

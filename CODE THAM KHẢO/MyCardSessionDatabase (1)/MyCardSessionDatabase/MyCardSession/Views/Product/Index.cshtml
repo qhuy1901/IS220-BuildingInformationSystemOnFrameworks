@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Danh sách các mặt hàng</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/mycss.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="card">
+    <h3>Products List</h3>
+    
+    <table class="table table_bordered">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Photo</th>
+            <th>Price</th>
+            <th>Buy</th>
+        </tr>
+        @foreach (var product in ViewBag.products)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td>@product.ProductName</td>
+                <td><img src="~/images/@product.ProductImage" width="60px" /> </td>
+                <td>@product.Price</td>
+                <td align="center">
+                    <a asp-controller="cart" asp-action="buy" asp-route-id="@product.ProductId">Buy Now</a>
+                </td>
+            </tr>
+        }
+    </table>
+    </div>
+    </body>
+</html>

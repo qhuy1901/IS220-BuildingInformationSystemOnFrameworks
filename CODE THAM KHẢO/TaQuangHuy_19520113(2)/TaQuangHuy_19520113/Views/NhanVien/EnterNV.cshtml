@@ -1,0 +1,14 @@
+﻿@model IEnumerable<TaQuangHuy_19520113.Models.NhanVien>
+@{
+    ViewData["Title"] = "Liệt kê hóa đơn";
+}
+<h2>Liệt kê hóa đơn</h2>
+<form action="/NhanVien/LietKeHD" method="post">
+    <select name="MaNV" id="MaNV" style=" height: 35px; width: 300px;">
+        @foreach (var item in Model)
+        {
+            <option value="@item.MaNV">@item.HoTen </option>
+        }
+    </select><br>
+    <input type="submit" name="submit" class="btn btn-success" value="Liệt kê" style="margin-top:20px" />
+</form>

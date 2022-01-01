@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{88DFFE90-5156-43E5-B43A-A351C3A436E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.OperatorVector PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorVector/Vector.cs">
+    <Files>
+      <File FileName="OperatorVector/Program.cs" Line="13" Column="24" />
+      <File FileName="OperatorVector/Vector.cs" Line="53" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OperatorVector" expanded="True">
+            <Node name="OperatorVector" expanded="True">
+              <Node name="Vector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

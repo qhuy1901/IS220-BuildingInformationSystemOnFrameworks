@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TaQuangHuy_19520113.Models.SanPham>
+@{
+    ViewData["Title"] = "Liệt kê sản phẩm";
+}
+
+<h2>Danh Sách các sản phẩm</h2>
+<table border="1">
+    <tr>
+        <th>Mã SP</th>
+        <th>Tên SP</th>
+        <th>DVT</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.MaSP
+            </td>
+
+            <td>
+                @item.TenSP
+            </td>
+            <td>
+                @item.Dvt
+            </td>
+        </tr>
+    }
+</table>

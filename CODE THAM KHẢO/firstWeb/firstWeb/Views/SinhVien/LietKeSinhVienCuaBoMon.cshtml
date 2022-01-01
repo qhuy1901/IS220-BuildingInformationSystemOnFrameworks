@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Tilte"] = "Danh sách các sinh viên trong bộ môn";
+}
+@model IEnumerable<firstWeb.Models.SinhVien>
+@{
+    <table class="table">
+        <tr>
+            <th> Mã sinh viên</th>
+            <th> Tên sinh viên</th>
+        </tr>
+        @foreach(var sv in Model)
+        {
+            <tr>
+                <td>@sv.MaSinhVien</td>
+                <td>@sv.TenSinhVien</td>
+            </tr>
+        }
+    </table>
+}

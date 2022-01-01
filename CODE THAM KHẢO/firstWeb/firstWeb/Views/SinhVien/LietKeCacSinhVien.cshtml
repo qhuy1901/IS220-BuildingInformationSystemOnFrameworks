@@ -1,0 +1,29 @@
+﻿@model IEnumerable<firstWeb.Models.SinhVien>
+@{
+    ViewData["Title"] = "Liệt kê khoa";
+}
+
+<h2>Danh Sách các Album</h2>
+<table border="1">
+    <tr>
+        <th>Mã sinh viên</th>
+        <th>Tên sinh viên</th>
+        <th>Điểm trung bình</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.MaSinhVien
+            </td>
+
+            <td>
+                @item.TenSinhVien
+            </td>
+            <td>
+                @item.DiemTrungBinh
+            </td>
+        </tr>
+    }
+</table>

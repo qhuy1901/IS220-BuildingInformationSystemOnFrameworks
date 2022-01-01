@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Trang thông tin Khoa";
+
+}
+<h2> Đây là trang thông tin Khoa</h2>
+@{
+   /* Khoa kh = ViewBag.Khoa;
+    <p> Mã khoa: @kh.MaKhoa</p>
+    <p> Tên khoa: @kh.TenKhoa</p>*/
+}
+
+
+
+@{
+/*Khoa khoa = Model;
+<p> Mã khoa: @khoa.MaKhoa</p>
+<p> Tên khoa: @khoa.TenKhoa</p>*/
+}
+
+@{
+    var khoa = ViewData["Khoa"] as Khoa;
+    <p> Mã khoa: @khoa.MaKhoa</p>
+    <p> Tên khoa: @khoa.TenKhoa</p>
+    
+}
+
+@model Khoa
+@{
+    /*<p> Mã khoa: @Model.MaKhoa</p>
+    <p> Tên khoa: @Model.TenKhoa</p>*/
+
+}

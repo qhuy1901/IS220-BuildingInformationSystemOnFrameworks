@@ -1,0 +1,21 @@
+﻿@model IDictionary<string, int>
+@{
+    ViewData["Title"] = "Liệt số sinh viên trong bộ môn";
+}
+
+<h2>Số sinh viên trong bộ môn</h2>
+<table border="1">
+    <tr>
+        <th>Tên bộ môn</th>
+        <th>Số sinh viên</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item
+            </td>
+        </tr>
+    }
+</table>

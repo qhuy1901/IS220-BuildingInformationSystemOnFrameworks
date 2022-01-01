@@ -1,0 +1,19 @@
+﻿@using TaQuangHuy_19520113.Models;
+@model KhachHang
+@{
+
+    ViewData["Title"] = "Thêm sản phẩm";
+    <div class="card">
+        <div class="card-header"><h3>Thêm sản phẩm</h3></div>
+        <div class="card-body">
+            <form action="/SanPham/InsertSanPham" method="post">
+                <label for="maKH">Mã SP</label> <input type="text" name="MaSP" id="maKH" /><br>
+                <label for="tenKH">Tên SP</label> <input type="text" name="TenSP" id="tenKH" /><br>
+                <label for="tenKH">Đơn vị tính</label> <input type="text" name="DVT" id="tenKH" /><br>
+                <label for="tenKH">Nước sản xuất</label> <input type="text" name="NuocSX" id="tenKH" /><br>
+                <label for="tenKH">Giá</label> <input type="text" name="Gia" id="tenKH" /><br>
+                <input type="submit" name="submit" class="btn btn-success" value="Thêm" />
+            </form>
+        </div>
+    </div>
+}

@@ -1,0 +1,20 @@
+﻿@using firstWeb.Models;
+@model Khoa
+@{
+    //using firstWeb.Models;
+    ViewData["Title"] = "Thêm khoa";
+
+    <h2>Thêm khoa</h2>
+    <form action="/Khoa/InsertKhoa" method="post">
+        <label for="maKhoa">Mã khoa</label> <input type="text" name="MaKhoa" id="maKhoa"/><br>
+        <label for="tenKhoa">Tên khoa</label> <input type="text" name="TenKhoa" id="tenKhoa"/><br>
+        <input type="submit" name="submit" value="Thêm" />
+    </form>
+    
+    //cách 2 dùng cú pháp strongly typed
+    /*<form action="/Khoa/InsertKhoa" method="post">
+        <label for="@Model.MaKhoa">Mã khoa</label> <input type="text" name="@Model.MaKhoa" />
+        <label for="@Model.TenKhoa">Tên khoa</label> <input type="text" name="@Model.TenKhoa" />
+        <input type="submit" name="submit" />
+    </form>*/
+}

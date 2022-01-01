@@ -1,0 +1,131 @@
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.deps.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.Views.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.MvcApplicationPartsAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.TagHelpers.input.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.TagHelpers.output.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorCoreGenerate.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Cart/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorTargetAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorTargetAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.csproj.CopyComplete
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/staticwebassets/MyCardSession.StaticWebAssets.Manifest.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/staticwebassets/MyCardSession.StaticWebAssets.xml
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.genruntimeconfig.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSession/MyCardSession/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.MvcApplicationPartsAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.deps.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.Views.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MyCardSession.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.TagHelpers.input.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.TagHelpers.output.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorCoreGenerate.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Cart/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorTargetAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.RazorTargetAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.csproj.CopyComplete
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/staticwebassets/MyCardSession.StaticWebAssets.Manifest.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/staticwebassets/MyCardSession.StaticWebAssets.xml
+/Users/XuanHung/Teach/FrameWork/code/netcore/MyCardSessionDatabase/MyCardSession/obj/Debug/netcoreapp3.1/MyCardSession.genruntimeconfig.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.exe
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.deps.json
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.runtimeconfig.json
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.runtimeconfig.dev.json
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.pdb
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.Views.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MyCardSession.Views.pdb
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.csproj.AssemblyReference.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.AssemblyInfoInputs.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.AssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.csproj.CoreCompileInputs.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.RazorAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.RazorAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\staticwebassets\MyCardSession.StaticWebAssets.Manifest.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\staticwebassets\MyCardSession.StaticWebAssets.xml
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyCardSession.styles.css
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.TagHelpers.input.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.TagHelpers.output.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.RazorCoreGenerate.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.RazorTargetAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.RazorTargetAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.Views.pdb
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.csproj.CopyComplete
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.dll
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.pdb
+D:\C#Code\CODE THAM KHẢO\MyCardSessionDatabase (1)\MyCardSessionDatabase\MyCardSession\obj\Debug\netcoreapp3.1\MyCardSession.genruntimeconfig.cache

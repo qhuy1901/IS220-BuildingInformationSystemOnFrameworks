@@ -1,0 +1,126 @@
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.deps.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.Views.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/firstWeb.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.MvcApplicationPartsAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.RazorAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.RazorAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.TagHelpers.input.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.TagHelpers.output.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.RazorCoreGenerate.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.RazorTargetAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.RazorTargetAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/staticwebassets/firstWeb.StaticWebAssets.Manifest.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/staticwebassets/firstWeb.StaticWebAssets.xml
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.genruntimeconfig.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/firstWeb.csproj.CopyComplete
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/XemDiem.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/EnterKhoa.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/InsertKhoa.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/LietKeKhoa.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/BoMon/EnterBoMon.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/BoMon/InsertBoMon.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/DeleteKhoa.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/UpdateKhoa.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/Khoa/ViewKhoa.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/LietKeSinhVien.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/XoaSinhVien.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/TimSinhVien.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/TimSinhVienTheoTen.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/LietKeNSinhVien.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/LietKeCacSinhVien.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/LietKeSinhVienMax.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/BoMon/SoSinhVien.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/BoMon/SoSinhVien (copy).cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/BoMon/LietKeBoMon.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb/firstWeb/obj/Debug/netcoreapp3.1/Razor/Views/SinhVien/LietKeSinhVienCuaBoMon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.exe
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.deps.json
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.runtimeconfig.json
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.runtimeconfig.dev.json
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.pdb
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.Views.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\firstWeb.Views.pdb
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.csproj.AssemblyReference.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.AssemblyInfoInputs.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.AssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.csproj.CoreCompileInputs.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.RazorAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.RazorAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\staticwebassets\firstWeb.StaticWebAssets.Manifest.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\staticwebassets\firstWeb.StaticWebAssets.xml
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\firstWeb.styles.css
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.TagHelpers.input.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.TagHelpers.output.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.RazorCoreGenerate.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\BoMon\EnterBoMon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\BoMon\InsertBoMon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\BoMon\LietKeBoMon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\BoMon\SoSinhVien (copy).cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\BoMon\SoSinhVien.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\DeleteKhoa.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\EnterKhoa.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\InsertKhoa.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\LietKeKhoa.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\UpdateKhoa.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Khoa\ViewKhoa.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\LietKeCacSinhVien.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\LietKeNSinhVien.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\LietKeSinhVien.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\LietKeSinhVienCuaBoMon.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\LietKeSinhVienMax.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\TimSinhVien.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\TimSinhVienTheoTen.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\XemDiem.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\XoaSinhVien.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.RazorTargetAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.RazorTargetAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.Views.pdb
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.csproj.CopyComplete
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.dll
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.pdb
+D:\C#Code\CODE THAM KHẢO\firstWeb\firstWeb\obj\Debug\netcoreapp3.1\firstWeb.genruntimeconfig.cache

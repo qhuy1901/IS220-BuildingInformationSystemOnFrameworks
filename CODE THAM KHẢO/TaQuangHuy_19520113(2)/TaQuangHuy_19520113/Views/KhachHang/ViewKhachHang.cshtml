@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "View Khach hang";
+}
+@model KhachHang
+@{
+    <div class="card">
+        <div class="card-header"><h3>View khách hàng</h3></div>
+        <div class="card-body">
+            <form action="/KhachHang/UpdateKhachHang" method="post">
+                <label for="MaKH">Mã KH</label>
+                <input type="text" name="MaKH" value="@Model.MaKH" /><br>
+                <label for="TenKH">Tên KH</label>
+                <input type="text" name="HoTen" value="@Model.HoTen" /><br>
+                <input type="submit" class="btn btn-success" name="submit" value="Update" />
+            </form>
+        </div>
+    </div>
+    
+    
+}

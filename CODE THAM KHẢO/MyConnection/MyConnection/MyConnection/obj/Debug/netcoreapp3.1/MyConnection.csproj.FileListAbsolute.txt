@@ -1,0 +1,38 @@
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/MyConnection.deps.json
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/MyConnection.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/MyConnection.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/MyConnection.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/MyConnection.pdb
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.csproj.CopyComplete
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.dll
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.pdb
+/Users/XuanHung/Teach/FrameWork/code/database/MyConnection/MyConnection/obj/Debug/netcoreapp3.1/MyConnection.genruntimeconfig.cache
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MyConnection.exe
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MyConnection.deps.json
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MyConnection.runtimeconfig.json
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MyConnection.runtimeconfig.dev.json
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MyConnection.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MyConnection.pdb
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.csproj.AssemblyReference.cache
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.AssemblyInfoInputs.cache
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.AssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.csproj.CoreCompileInputs.cache
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.csproj.CopyComplete
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.dll
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.pdb
+D:\C#Code\CODE THAM KHẢO\MyConnection\MyConnection\MyConnection\obj\Debug\netcoreapp3.1\MyConnection.genruntimeconfig.cache

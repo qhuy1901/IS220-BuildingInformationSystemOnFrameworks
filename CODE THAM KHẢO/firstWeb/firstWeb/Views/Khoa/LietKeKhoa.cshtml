@@ -1,0 +1,33 @@
+﻿@model IEnumerable<firstWeb.Models.Khoa> 
+@{
+    ViewData["Title"] = "Liệt kê khoa";
+}
+
+<h2>Danh Sách các Album</h2>
+<table border="1">
+    <tr>
+        <th>Mã Khoa</th>
+        <th>Tên Khoa</th>
+        <th>Chức năng</th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.MaKhoa
+            </td>
+
+            <td>
+                @item.TenKhoa
+            </td>
+            <td>
+                <a href="DeleteKhoa?Id=@item.MaKhoa">Xóa</a>
+                <a href="ViewKhoa?Id=@item.MaKhoa">View</a>
+            </td>
+
+        </tr>
+    }
+</table>

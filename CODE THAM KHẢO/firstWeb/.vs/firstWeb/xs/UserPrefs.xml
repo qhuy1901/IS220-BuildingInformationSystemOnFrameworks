@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{A30E5ADF-8E1E-42C4-8644-A44FC1CA6450}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstWeb/Models/StoreContext.cs">
+    <Files>
+      <File FileName="firstWeb/Models/StoreContext.cs" Line="311" Column="87" />
+      <File FileName="firstWeb/Views/Shared/_Layout.cshtml" Line="57" Column="92" />
+      <File FileName="firstWeb/Controllers/BoMonController.cs" Line="43" Column="40" />
+      <File FileName="firstWeb/Views/BoMon/SoSinhVien.cshtml" Line="9" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstWeb" expanded="True">
+            <Node name="firstWeb" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="StoreContext.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="BoMon" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Khoa" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="SinhVien" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.firstWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+﻿@model IEnumerable<firstWeb.Models.BoMon>
+@{
+    ViewData["Tilte"] = "Liệt kê sinh viên trong bộ môn";
+}
+@{
+    <h2>Danh sách bộ môn</h2>
+    <form action="/SinhVien/LietKeSinhVienCuaBoMon" method="post">
+        <label for="TenBoMon">Danh sách bộ môn</label>
+        <select name ="MaBoMon" id="TenBoMon">
+            @foreach (var item in Model)
+            {
+                <option value="@item.MaBoMon">@item.TenBoMon</option>
+
+            }
+        </select><br>
+        <input type="submit" name="submit" value="Liệt kê" />
+    </form>
+
+}

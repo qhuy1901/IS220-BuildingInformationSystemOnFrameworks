@@ -1,0 +1,66 @@
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/EntityFrameWork.deps.json
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/EntityFrameWork.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/EntityFrameWork.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/EntityFrameWork.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/EntityFrameWork.pdb
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/Remotion.Linq.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/System.Interactive.Async.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.csproj.CopyComplete
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.dll
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.pdb
+/Users/XuanHung/Teach/FrameWork/code/database/EntityFrameWork/EntityFrameWork/obj/Debug/netcoreapp3.1/EntityFrameWork.genruntimeconfig.cache
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\EntityFrameWork.exe
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\EntityFrameWork.deps.json
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\EntityFrameWork.runtimeconfig.json
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\EntityFrameWork.runtimeconfig.dev.json
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\EntityFrameWork.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\EntityFrameWork.pdb
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.csproj.AssemblyReference.cache
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.AssemblyInfoInputs.cache
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.AssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.csproj.CoreCompileInputs.cache
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.csproj.CopyComplete
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.dll
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.pdb
+D:\C#Code\CODE THAM KHẢO\EntityFrameWork\EntityFrameWork\obj\Debug\netcoreapp3.1\EntityFrameWork.genruntimeconfig.cache

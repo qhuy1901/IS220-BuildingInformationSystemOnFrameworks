@@ -1,0 +1,80 @@
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.deps.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.Views.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/bin/Debug/netcoreapp3.1/MySession.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.MvcApplicationPartsAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.RazorAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.RazorAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.TagHelpers.input.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.TagHelpers.output.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.RazorCoreGenerate.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.RazorTargetAssemblyInfo.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.RazorTargetAssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.Views.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/staticwebassets/MySession.StaticWebAssets.Manifest.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/staticwebassets/MySession.StaticWebAssets.xml
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.dll
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.pdb
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.genruntimeconfig.cache
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/MySession.csproj.CopyComplete
+/Users/XuanHung/Teach/FrameWork/code/netcore/MySession/MySession/obj/Debug/netcoreapp3.1/Razor/Views/Home/DeleSession.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.exe
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.deps.json
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.runtimeconfig.json
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.runtimeconfig.dev.json
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.dll
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.pdb
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.Views.dll
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\bin\Debug\netcoreapp3.1\MySession.Views.pdb
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.csproj.AssemblyReference.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.AssemblyInfoInputs.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.AssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.csproj.CoreCompileInputs.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.RazorAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.RazorAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\staticwebassets\MySession.StaticWebAssets.Manifest.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\staticwebassets\MySession.StaticWebAssets.xml
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\scopedcss\bundle\MySession.styles.css
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.TagHelpers.input.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.TagHelpers.output.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.RazorCoreGenerate.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleSession.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.RazorTargetAssemblyInfo.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.RazorTargetAssemblyInfo.cs
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.Views.pdb
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.dll
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.pdb
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.genruntimeconfig.cache
+D:\C#Code\CODE THAM KHẢO\MySession\MySession\MySession\obj\Debug\netcoreapp3.1\MySession.csproj.CopyComplete

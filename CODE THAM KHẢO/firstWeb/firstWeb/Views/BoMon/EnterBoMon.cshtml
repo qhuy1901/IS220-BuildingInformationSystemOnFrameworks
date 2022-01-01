@@ -1,0 +1,18 @@
+﻿@model IEnumerable<firstWeb.Models.Khoa>
+@{
+    ViewData["Title"] = "Thêm bộ môn";
+}
+<h2>Thêm khoa</h2>
+<form action="/BoMon/InsertBoMon" method="post">
+    <label for="TenKhoa">Tên Khoa</label>
+    <select name="MaKhoa" id="TenKhoa">
+        @foreach (var item in Model)
+        { 
+            <option value="@item.MaKhoa">@item.TenKhoa </option>     
+        }
+    </select><br>
+    <label for="MaBoMon">Mã bộ môn</label> <input type="text" name="MaBoMon" /><br>
+    <label for="TenBomon">Tên bộ môn</label> <input type="text" name="TenBoMon" /><br>
+    <input type="submit" name="submit" value="Thêm"/>
+</form>
+

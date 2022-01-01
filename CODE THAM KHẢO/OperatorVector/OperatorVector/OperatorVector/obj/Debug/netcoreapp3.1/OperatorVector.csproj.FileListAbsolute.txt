@@ -1,0 +1,12 @@
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/bin/Debug/netcoreapp3.1/OperatorVector.deps.json
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/bin/Debug/netcoreapp3.1/OperatorVector.runtimeconfig.json
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/bin/Debug/netcoreapp3.1/OperatorVector.runtimeconfig.dev.json
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/bin/Debug/netcoreapp3.1/OperatorVector.dll
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/bin/Debug/netcoreapp3.1/OperatorVector.pdb
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.csprojAssemblyReference.cache
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.csproj.CoreCompileInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.AssemblyInfoInputs.cache
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.AssemblyInfo.cs
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.dll
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.pdb
+/Users/XuanHung/Teach/FrameWork/code/oop/OperatorVector/OperatorVector/obj/Debug/netcoreapp3.1/OperatorVector.genruntimeconfig.cache
