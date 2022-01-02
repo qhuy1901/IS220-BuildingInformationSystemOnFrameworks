@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+Ngày nhận xe
+<input type="date">
+Ngày trả xe
+<input type="date">
+Thành tiền
+<input type="text" value="@ViewBag.thanhtien">
+<table border="1">
+    <tr><th>Tên công việc</th><th>Đơn giá</th><th>Chức năng</th></tr>
+    @foreach (var item in ViewBag.listctbd)
+    {
+        <tr>
+            <td>@item.GetType().GetProperty("TenCV").GetValue(item, null)</td>
+            <td>@item.GetType().GetProperty("DonGia").GetValue(item, null)</td>
+            <td>
+                <a href="javascript:void(0)" class="delete-button">Xóa</a>
+                <input type="hidden" class="MaCV" value="@item.GetType().GetProperty("MaCV").GetValue(item,null)" />
+                <input type="hidden" class="MaBD" value="@item.GetType().GetProperty("MaBD").GetValue(item,null)" />
+            </td>
+        </tr>
+    }
+</table>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".delete-button").click(function () {
+            var parent = $(this).parents("tr");
+            var MaCV = parent.find(".MaCV").val();
+            var MaBD = parent.find(".MaBD").val();
+            $.ajax({
+                url: "/CT_BD/xoactbd",
+                method: "GET",
+                data: { MaCV: MaCV, MaBD: MaBD },
+                success: function () {
+                    parent.remove();
+                }
+            });
+        });
+    });
+</script>
+

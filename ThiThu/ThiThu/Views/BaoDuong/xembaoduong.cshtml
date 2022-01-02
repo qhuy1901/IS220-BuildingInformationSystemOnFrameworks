@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form action="/BaoDuong/suabaoduong?MaBD=@ViewBag.baoduonginfo.MaBD" method="POST">
+    Ngày giờ nhận xe <input type="date" name="NgayNhan" value="@ViewBag.baoduonginfo.NgayNhan">
+    Ngày giờ trả xe <input type="date" name="NgayTra" value="@ViewBag.baoduonginfo.NgayTra">
+    Số km <input type="text" name="SoKM" value="@ViewBag.baoduonginfo.SoKM">
+    Nội dung <input type="text" name="NoiDung" value="@ViewBag.baoduonginfo.NoiDung">
+    <input type="submit" value="Cập nhật">
+</form>
+
