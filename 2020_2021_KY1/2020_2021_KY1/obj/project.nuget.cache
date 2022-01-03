@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MYI0pd4LODczhUKO5DFNNGK1vFhFImKwSsz2K8VPDrn3j9fSWq625Otp2DyODkcxGWeWabDthvjpJWXJW5pxDA==",
+  "dgSpecHash": "S4J2aWbH4r+jTJqDkRhfSf4QmL0O0Ov8MJf28jdt/nT671gec/qt3dU6ecM4z1ZB2PIY6lAXZ5i1seAXCtDXYQ==",
   "success": true,
-  "projectFilePath": "D:\\C#Code\\2020_2021_KY1\\2020_2021_KY1\\2020_2021_KY1.csproj",
+  "projectFilePath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\2020_2021_KY1\\2020_2021_KY1\\2020_2021_KY1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

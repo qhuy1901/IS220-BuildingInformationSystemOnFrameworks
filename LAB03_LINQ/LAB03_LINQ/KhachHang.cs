@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace LAB03_LINQ
@@ -24,7 +25,7 @@ namespace LAB03_LINQ
             this.ngDK = ngDK;
             this.doanhSo = doanhSo;
         }
-
+        [Key]
         public string MaKH { get => maKH; set => maKH = value; }
         public string HoTen { get => hoTen; set => hoTen = value; }
         public string DChi { get => dChi; set => dChi = value; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Code\\Lab03\\Lab03\\Lab03.csproj": {}
+    "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\Lab03\\Lab03\\Lab03.csproj": {}
   },
   "projects": {
-    "D:\\C#Code\\Lab03\\Lab03\\Lab03.csproj": {
+    "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\Lab03\\Lab03\\Lab03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Code\\Lab03\\Lab03\\Lab03.csproj",
+        "projectUniqueName": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\Lab03\\Lab03\\Lab03.csproj",
         "projectName": "Lab03",
-        "projectPath": "D:\\C#Code\\Lab03\\Lab03\\Lab03.csproj",
+        "projectPath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\Lab03\\Lab03\\Lab03.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Code\\Lab03\\Lab03\\obj\\",
+        "outputPath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\Lab03\\Lab03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

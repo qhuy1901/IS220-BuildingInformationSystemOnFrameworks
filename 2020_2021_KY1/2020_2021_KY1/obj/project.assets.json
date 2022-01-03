@@ -855,11 +855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#Code\\2020_2021_KY1\\2020_2021_KY1\\2020_2021_KY1.csproj",
+      "projectUniqueName": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\2020_2021_KY1\\2020_2021_KY1\\2020_2021_KY1.csproj",
       "projectName": "2020_2021_KY1",
-      "projectPath": "D:\\C#Code\\2020_2021_KY1\\2020_2021_KY1\\2020_2021_KY1.csproj",
+      "projectPath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\2020_2021_KY1\\2020_2021_KY1\\2020_2021_KY1.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#Code\\2020_2021_KY1\\2020_2021_KY1\\obj\\",
+      "outputPath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\2020_2021_KY1\\2020_2021_KY1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

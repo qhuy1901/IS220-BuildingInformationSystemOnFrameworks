@@ -6185,11 +6185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#Code\\LAB03_LINQ\\LAB03_LINQ\\LAB03_LINQ.csproj",
+      "projectUniqueName": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\LAB03_LINQ\\LAB03_LINQ\\LAB03_LINQ.csproj",
       "projectName": "LAB03_LINQ",
-      "projectPath": "D:\\C#Code\\LAB03_LINQ\\LAB03_LINQ\\LAB03_LINQ.csproj",
+      "projectPath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\LAB03_LINQ\\LAB03_LINQ\\LAB03_LINQ.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#Code\\LAB03_LINQ\\LAB03_LINQ\\obj\\",
+      "outputPath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\LAB03_LINQ\\LAB03_LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

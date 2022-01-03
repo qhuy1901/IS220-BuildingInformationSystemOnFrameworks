@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmdMwNanYerIxDkeUdHpC9OSid29rDti29eMrsQwv5U9p0vKeohswtJlIK+kTSV9+YzFifCJYfPxLpuQcIKjzg==",
+  "dgSpecHash": "4TtQWHPJ07tqKk9u4lPqgeiFRSbEf6tinsGGcP+NzYpn6ZA8j6mYm6r/bdJw8uQKrv3i7Np5NKgAQxMpAV4Dsg==",
   "success": true,
-  "projectFilePath": "D:\\C#Code\\Lab03\\Lab03\\Lab03.csproj",
+  "projectFilePath": "D:\\C#Code\\IS220-BuildingInformationSystemOnFrameworks\\Lab03\\Lab03\\Lab03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

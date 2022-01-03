@@ -20,5 +20,6 @@ namespace LAB03_LINQ
         public DbSet<HoaDon> HoaDon { set; get; }
 
         public DbSet<CTHD> CTHD { set; get; }
+        public DbSet<KhachHang> KhachHang { set; get; }
     }
 }
